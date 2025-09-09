@@ -66,7 +66,7 @@ Resources: Notes, PDFs, and NCERT solutions.
 
 Contact Form: For inquiries.
 
-Authentication Page (logsign.html)
+# Authentication Page (logsign.html)
 
 Tabs for Login and Signup.
 
@@ -104,7 +104,7 @@ Typography with emphasis on titles and highlights.
 
 Reusable button and card styles.
 
-Installation & Usage
+# Installation & Usage
 
 Clone or download the repository.
 
